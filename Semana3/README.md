@@ -14,5 +14,5 @@ Aquí, diseñé una clase que representa la información del clima semanal. Esta
 
 Ambos enfoques me permitieron resolver el problema, pero trabajar con POO me ayudó a organizar mejor el código y a pensar en términos de estructuras que podrían crecer o adaptarse a nuevas necesidades.  
 Si bien la programación tradicional es útil para tareas sencillas, me sentí más cómoda con la claridad y el orden que ofrece la POO.  
-Por eso, en proyectos donde se requiera mantener o ampliar el código, optaría por usar programación orientada a objetos.
+Por eso, en proyectos donde se requiera mantener o ampliar el código, optaría por usar programación orientada a objetos.....
 
