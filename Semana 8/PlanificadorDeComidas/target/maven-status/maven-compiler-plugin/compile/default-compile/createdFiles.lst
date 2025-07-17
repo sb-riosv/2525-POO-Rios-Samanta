@@ -1,0 +1,5 @@
+com\samanta\rios\planificador\dashboard\Dashboard.class
+com\samanta\rios\planificador\modelo\Comida.class
+com\samanta\rios\planificador\vista\ConsolaVista.class
+com\samanta\rios\planificador\servicio\GestorComidas.class
+com\samanta\rios\planificador\servicio\GestorComidasImpl.class
