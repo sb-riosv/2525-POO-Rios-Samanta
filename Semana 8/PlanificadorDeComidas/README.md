@@ -3,7 +3,7 @@
 Este programa permite al usuario planificar sus comidas semanales desde consola.  
 Se pueden registrar comidas indicando el día y el tipo (desayuno, almuerzo o cena), consultar el listado completo, filtrar por día específico y eliminar comidas registradas.
 
-La aplicación está desarrollada en Java y organizada mediante paquetes (`modelo`, `vista`, `servicio` y `dashboard`), aplicando principios básicos de la Programación Orientada a Objetos (POO) para facilitar el mantenimiento y la escalabilidad del código.
+La aplicación está desarrollada  y organizada mediante paquetes (`modelo`, `vista`, `servicio` y `dashboard`), aplicando principios básicos de la Programación Orientada a Objetos (POO) para facilitar el mantenimiento y la escalabilidad del código.
 
 Para ejecutar el sistema, basta con iniciar la clase `Dashboard`, que contiene el menú principal y permite interactuar con todas las funcionalidades desde la consola.
 
