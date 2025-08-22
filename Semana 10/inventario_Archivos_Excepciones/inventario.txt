@@ -1,0 +1,2 @@
+id,nombre,cantidad,precio
+P001,Teclado,10,15.50
