@@ -10,15 +10,6 @@ import javax.swing.event.ListSelectionListener;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 
-/**
- * Ventana principal de la aplicación GUI básica.
- * Requisitos cubiertos:
- *  - JLabel, JTextField, JButton, JList (con JScrollPane)
- *  - Layouts (BorderLayout + FlowLayout)
- *  - Eventos (ActionListener y ListSelectionListener)
- *  - Validación de entradas vacías
- *  - Botón Limpiar (borra campo y listado)
- */
 public class AppGUIBasica extends JFrame {
 
     // Componentes principales
